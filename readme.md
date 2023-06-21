@@ -10,9 +10,9 @@
 
  > git commit -m 'message' - commits all added directories with a messages that you MUST include. 
 
- GIT HELP 
+ ### 🌸 GIT HELP 🌸
  usage: git [--version] [--help] [-C <path>] [-c <name>=<value>]
-           [--exec-path[=<path>]] [--html-path] [--man-path] [--info-path]
+           [--exec-path[=<path>] [--html-path] [--man-path] [--info-path]
            [-p | --paginate | -P | --no-pager] [--no-replace-objects] [--bare]
            [--git-dir=<path>] [--work-tree=<path>] [--namespace=<name>]
            [--super-prefix=<path>] [--config-env=<name>=<envvar>]
@@ -56,3 +56,17 @@ collaborate (see also: git help workflows)
 concept guides. See 'git help <command>' or 'git help <concept>'
 to read about a specific subcommand or concept.
 See 'git help git' for an overview of the system.
+
+## DOCUMENTING 06/20/2021
+The main idea for this class is to dynamically render HTML. You can't work ahead for everything. Absorb as much as you can. 
+
+> Targetting items in the DOM
+My idea - utilizing methods attached to the document object to attach functionality to the 'apps-todos' id. I wasn't sure how I'd represent the to-do items. 
+
+Refresher Questions 
+- What is the DOM? 
+- What is an HTML element? 
+- What are nodes? How do they compare to HTML elements? 
+- Identifying what parent elements are and what child elements are. 
+- Siblings are at the same level within the parent element. 
+- Selector - to select elements on the DOM. You can use document.querySelector.
