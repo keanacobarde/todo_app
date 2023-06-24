@@ -84,4 +84,13 @@ What questions do you have? What questions will help better deepen your understa
   - You generalized your code. Utilizing the iconic renderOnDom() function, you made it DRY. 
   - You learned about eventListeners and why it's important to use them over the HTML5 attributes you implemented when your HTML was being rendered.
 - You created a start button that rendered the HTML when clicked. Event listeners, babey!!!
+  ### 🌸 FEATURE-EVENT LISTENER UPDATES 🌸
+> USEFUL GIT COMMANDS 
 
+> git checkout -b : Creates a new branch and switches you to it. 
+
+> git status : shows you the status of your staging files and your commits.
+
+- You created event listeners for the #app-forms submission. Whenever it is submitted, a function is called that adds todo items onto the DOM. 
+- You removed legacy attributes from all HTML - handling everything within the index.js file.
+- You learned how to create branches in git. 
