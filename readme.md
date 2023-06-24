@@ -70,3 +70,6 @@ Refresher Questions
 - Identifying what parent elements are and what child elements are. 
 - Siblings are at the same level within the parent element. 
 - Selector - to select elements on the DOM. You can use document.querySelector.
+THIS is where you're starting to see some resistance. How are you going to work on that? 
+What questions do you have? What questions will help better deepen your understanding?
+
