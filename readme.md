@@ -73,3 +73,15 @@ Refresher Questions
 THIS is where you're starting to see some resistance. How are you going to work on that? 
 What questions do you have? What questions will help better deepen your understanding?
 
+## DOCUMENTING 06/24/2021
+- What is the ERD? Entity Relationship Diagram. This is as much of a theoretical concept as it is a technical one. 
+- Creating a utility function 
+- UGH 
+> so i forgot that when local execution contexts are spun up, the interpreter prioritizes the LOCAL MEMORY over the global memory and i think that's really important to keep in mind
+ - You learned about event listeners and why it's better than attributes. 
+ - OH MY GOD IT'S NOT BEING INVOKED
+  ### 🌸 UPDATES 🌸
+  - You generalized your code. Utilizing the iconic renderOnDom() function, you made it DRY. 
+  - You learned about eventListeners and why it's important to use them over the HTML5 attributes you implemented when your HTML was being rendered.
+- You created a start button that rendered the HTML when clicked. Event listeners, babey!!!
+

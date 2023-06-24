@@ -14,7 +14,7 @@
   <div id="container"></div>
   <main id="app">
     <h1 id="app-title">TO-DO APP</h1>
-    <form id="app-form"></form>
+    <form id="app-form" onsubmit="addTodos(document.querySelector(`#todo-item`).value);return false"></form>
     <hr />
     <div id="app-filter"></div>
     <hr />
